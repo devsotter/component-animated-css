@@ -1,0 +1,14 @@
+
+@media (max-width: 1144px) {
+    .display-bg {
+        margin-top: 80px;
+      }
+}
+
+@media (max-width: 970px) {
+    html {
+        font-size: 50%;
+    }
+
+
+}

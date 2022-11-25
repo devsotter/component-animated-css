@@ -13,11 +13,7 @@ html {
 }
 
 body {
-  background-color: #f0f0f0;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  background: linear-gradient(270deg, #222e40 0%, #51c3b8 100%);
 }
 ul {
   list-style: none;
